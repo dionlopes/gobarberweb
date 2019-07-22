@@ -7,7 +7,7 @@
   <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
-![App Screenshot](https://raw.githubusercontent.com/dionlopes/burgerking/master/public/gobarberweb.png)
+![App Screenshot](https://raw.githubusercontent.com/dionlopes/gobarberweb/master/public/gobarberweb.png)
 
 ## :rocket: Technologies
 
